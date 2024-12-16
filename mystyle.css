@@ -1,0 +1,55 @@
+body {
+          background-color:blanchedalmond;
+          margin:0;
+}
+
+.box{
+          margin: auto ;
+          width: 20%;
+}
+
+#output{
+          font-size: 32px;
+          width: 245px;
+          height: 70px;
+          border: 2px solid rgb(18, 17, 17);
+          border-radius: 9px;
+          margin: 70px auto 0;
+          background-color: rgba(183, 175, 175, 0.82);
+          color: ghostwhite;
+}
+
+.rows{
+          margin: auto;
+          width: 20%;
+          margin-left: auto;
+          margin-top: 1px;
+          margin-bottom: 4px;
+}
+
+button{
+          cursor: pointer;
+          border-radius: 9px;
+          width: 62px;
+          height: 62px;
+          margin-top: 2px;
+          margin-left: auto;
+          margin-right: -3px;
+          font-size: 30px;
+          background-color:rgb(250, 246, 235);
+}
+
+button:hover{
+          background-color: rgb(98, 31, 2);
+          color: azure;
+}
+
+.operator{
+          background-color: rgb(29, 30, 29);
+          color: azure;
+}
+
+
+
+
+
